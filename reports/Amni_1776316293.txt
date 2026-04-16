@@ -1,0 +1,10 @@
+Name: WAN MUHAMMAD DANISH AMN BIN WAN MUHAMMAD ZAINUDDIN
+Matric: 18DDT23F1085
+Block: A
+Room: 32
+Damage: Light
+Urgency: Medium
+Date: 2026-04-16
+Description: The ceiling fan is not functioning, and no light is emitting.
+Phone: 0162193045
+Status: In Progress

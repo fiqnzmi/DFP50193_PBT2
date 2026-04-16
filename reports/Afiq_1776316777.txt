@@ -1,0 +1,10 @@
+Name: Afiq
+Matric: 18DDT23F1085
+Block: B
+Room: 11
+Damage: Furniture
+Urgency: Low
+Date: 2026-04-16
+Description: The closet door is squeaking.
+Phone: test
+Status: Pending
